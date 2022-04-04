@@ -21,8 +21,8 @@ import com.veeru.springboot.security.repo.BookRepository;
  * @author virupaksha.kuruva
  *
  */
-@SpringBootTest(classes = { BookStoreServiceImpl.class })
-@RunWith(SpringRunner.class)
+//@SpringBootTest(classes = { BookStoreServiceImpl.class })
+//@RunWith(SpringRunner.class)
 public class BookStoreServiceImplTest {
 
 	
