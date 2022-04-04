@@ -24,8 +24,7 @@ import com.veeru.springboot.security.services.BookStoreServiceImpl;
  * @author virupaksha.kuruva
  *
  */
-@SpringBootTest(classes = { BookStoreServiceImpl.class })
-@RunWith(SpringRunner.class)
+
 public class BookStoreControllerTest {
 
 	@MockBean
