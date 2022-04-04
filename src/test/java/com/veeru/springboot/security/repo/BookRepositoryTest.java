@@ -22,9 +22,9 @@ import com.veeru.springboot.security.models.Book;
  * @author virupaksha.kuruva
  *
  */
-@ContextConfiguration
+//@ContextConfiguration
 //@DataJpaTest
-@RunWith(SpringRunner.class)
+//@RunWith(SpringRunner.class)
 public class BookRepositoryTest {
 
 	@Autowired
